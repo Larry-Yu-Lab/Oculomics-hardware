@@ -12,8 +12,6 @@ The purpose of this project is to develop a low-cost device that can early detec
 
 Core Components & Implementation
 
-Core Components & Implementation
-
 Hardware Assembly & Optical Setup: Uses an indirect ophthalmoscopy setup featuring a 20D condensing lens paired with coaxial illumination, housed in custom 3D-printed attachment adapters (including oDocs visoScope designs) to convert standard smartphone camera modules into functional fundus cameras.
 
 Image Pre-processing Pipeline: Applies image quality filters, Contrast Limited Adaptive Histogram Equalization (CLAHE), and specialized vessel enhancement algorithms to normalize smartphone-captured fundus frames and highlight microvascular structures.
