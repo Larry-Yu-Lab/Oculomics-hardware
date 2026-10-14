@@ -25,7 +25,12 @@ Software Integration: This Oculomics hardware is paired with Oculomics software,
 This Oculomics hardware is paired with Oculomics software, which integrates a trained machine learning model with a mobile app. 
 
 Design Purpose/ Ideas:
+
                             
 The reason for the design was to current a simple, low cost device that anyone could build and could be used straight from the packaging or from the 3D printer. The device is also a single, non-medical professional to be able to detect early signs of stroke or CVD. The device is paired with the mobile app and can be done with 1 hand.
+<img width="1725" height="1545" alt="image" src="https://github.com/user-attachments/assets/76e89b43-6b74-4218-a71f-28a8fe74c382" />
 
+<img width="1440" height="1920" alt="image" src="https://github.com/user-attachments/assets/221f662a-a76c-4ac8-9b7c-1238c5779562" />
+
+<img width="1222" height="1100" alt="image" src="https://github.com/user-attachments/assets/75b608bc-a39c-4a25-ba0b-8df0a366364d" />
 
